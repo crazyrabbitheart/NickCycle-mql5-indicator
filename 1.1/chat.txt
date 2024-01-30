@@ -1,0 +1,7 @@
+also when i add a line manually, change TF and come back again line is gone slightly smiling face emoji
+image.png
+arrow is very small, can you pls make it bigger
+trade additions and fixes.txt
+image2.png
+here is how the TMA will work
+so, arrow no need to trigger now when its pushes through the S&R. rather, when TMA breaks 0 lines at the S&R

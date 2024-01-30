@@ -1,0 +1,11 @@
+arrow size       - fix
+allow closer S&R lines    - fix 
+check manual S&R lines, are they working and make sure they dont dissapear when changing TF  - fix
+auto adjust lines to the current price, so i dont need to keep updating the indicator to the price its at   - fix
+add option to add more buffer times lines (verticle lines) - fix
+
+add ON/OFF option so trades trigger short when below EMA oopp for long. This is to help trend trading  - Addition $10 (although TMA will do this mostly)
+Add TMA cross over 0 trigger   - Addition $10
+
+
+
